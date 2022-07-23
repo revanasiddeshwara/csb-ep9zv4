@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/css/main.4659cfe0.chunk.css",
+    "main.js": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/main.9b66987d.chunk.js",
+    "main.js.map": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/main.9b66987d.chunk.js.map",
+    "runtime-main.js": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/runtime-main.f3a9c9f8.js",
+    "runtime-main.js.map": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/runtime-main.f3a9c9f8.js.map",
+    "static/js/2.15d653e5.chunk.js": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/2.15d653e5.chunk.js",
+    "static/js/2.15d653e5.chunk.js.map": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/2.15d653e5.chunk.js.map",
+    "index.html": "https://revanasiddeshwara.github.io/csb-ep9zv4/index.html",
+    "static/css/main.4659cfe0.chunk.css.map": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/css/main.4659cfe0.chunk.css.map",
+    "static/js/2.15d653e5.chunk.js.LICENSE.txt": "https://revanasiddeshwara.github.io/csb-ep9zv4/static/js/2.15d653e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a9c9f8.js",
+    "static/js/2.15d653e5.chunk.js",
+    "static/css/main.4659cfe0.chunk.css",
+    "static/js/main.9b66987d.chunk.js"
+  ]
+}
